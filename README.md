@@ -62,10 +62,11 @@ Publish, fork, and refine prompts for LLMs like ChatGPT, Gemini, and Claude. No 
 
 <div align="center">
 
-![Mohammed's GitHub Stats][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdsamer-dev)](https://github.com/mhmdsamer-dev/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdsamer-dev&layout=compact&theme=tokyonight&hide_border=true)
+<img alt="mhmdsamerdev's Github Stats" src="https://github-readme-stats-indol-delta-63.vercel.app/api?username=mhmdsamer-dev&theme=tokyonight&show_icons=true&hide_border=true" />
+<img alt="mhmdsamerdev's Top Languages" src="https://github-readme-stats-indol-delta-63.vercel.app/api/top-langs/?username=mhmdsamer-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
