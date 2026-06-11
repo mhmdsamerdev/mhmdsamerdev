@@ -35,6 +35,13 @@ Not just counting classes — SmartSchedule calculates exactly how many sessions
 
 ---
 
+#### 💸 [NetLanding](https://github.com/mhmdsamerdev/NetLanding)
+> Self-employed income tracker focused on what actually lands in your bank.
+
+Not an expense tracker. NetLanding tracks gross income and every "leak" — platform fees, payment processor cuts, taxes withheld — that chip away at your money before it reaches you. Crystal-clear visibility into your real take-home.
+
+---
+
 ### In Progress
 
 #### ⚽ Predeq *(coming soon)*
@@ -44,29 +51,10 @@ Pick match winners before kickoff and earn points through an odds-weighted syste
 
 ---
 
-#### 💸 NetLanding *(in development)*
-> Self-employed income tracker focused on what actually lands in your bank.
-
-Not an expense tracker. NetLanding tracks gross income and every "leak" — platform fees, payment processor cuts, taxes withheld — that chip away at your money before it reaches you. Crystal-clear visibility into your real take-home.
-
----
-
 #### 🤖 CueRoom *(in development)*
 > A collaborative hub for prompt engineers and AI enthusiasts.
 
 Publish, fork, and refine prompts for LLMs like ChatGPT, Gemini, and Claude. No more copying from Notepad files — CueRoom is a living ecosystem where high-performing prompts are shared, versioned, and improved by a community.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img alt="mhmdsamerdev's Github Stats" src="https://github-readme-stats-indol-delta-63.vercel.app/api?username=mhmdsamer-dev&theme=tokyonight&show_icons=true&hide_border=true" />
-<img alt="mhmdsamerdev's Top Languages" src="https://github-readme-stats-indol-delta-63.vercel.app/api/top-langs/?username=mhmdsamer-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 
 ---
 
