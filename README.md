@@ -17,9 +17,9 @@ Tools      │  Git · Docker · VS Code
 
 ---
 
-## Projects
+## Projects 
 
-### Shipped
+### Shipped *(This list is outdated and not regularly updated)*
 
 #### 📚 [Shelfie](https://github.com/mhmdsamer-dev/shelfie)
 > A modern, local-first library manager for PDFs and EPUBs.
