@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="314" viewBox="0 0 860 314">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+
+.l { opacity: 0; animation: in 0.4s ease-out forwards; }
+@keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .l { animation: none; opacity: 1; } }
+
+.cur { animation: blink 1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+
+</style>
+<rect x="0.5" y="0.5" width="859" height="313" rx="8" fill="#0d1117" stroke="#30363d"/>
+<circle cx="16" cy="18" r="5" fill="#ff5f56"/><circle cx="32" cy="18" r="5" fill="#ffbd2e"/><circle cx="48" cy="18" r="5" fill="#27c93f"/><line x1="0" y1="31" x2="860" y2="31" stroke="#21262d"/>
+<text class="l" style="animation-delay:0.1s" x="20" y="46" font-size="13" fill="#8b949e">total 8 · public repos are pinned, the rest are private</text>
+<text class="l" style="animation-delay:0.30s" x="20" y="74" font-size="14"><tspan fill="#8b949e">drwxr-xr-x</tspan><tspan x="130" fill="#d29922">[finalist]</tspan><tspan x="240" fill="#58a6ff" font-weight="bold">vertiflow/</tspan><tspan x="390" fill="#c9d1d9">IoT vertical-farm platform · hackathon finalist</tspan></text>
+<text class="l" style="animation-delay:0.45s" x="20" y="100" font-size="14"><tspan fill="#8b949e">drwxr-xr-x</tspan><tspan x="130" fill="#3fb950">[active]</tspan><tspan x="240" fill="#58a6ff" font-weight="bold">netlanding/</tspan><tspan x="390" fill="#c9d1d9">self-hosted income tracker: gross vs. what lands</tspan></text>
+<text class="l" style="animation-delay:0.60s" x="20" y="126" font-size="14"><tspan fill="#8b949e">drwxr-xr-x</tspan><tspan x="130" fill="#58a6ff">[public]</tspan><tspan x="240" fill="#58a6ff" font-weight="bold">shelfie/</tspan><tspan x="390" fill="#c9d1d9">local-first library manager for PDFs &amp; EPUBs</tspan></text>
+<text class="l" style="animation-delay:0.75s" x="20" y="152" font-size="14"><tspan fill="#8b949e">drwxr-xr-x</tspan><tspan x="130" fill="#58a6ff">[public]</tspan><tspan x="240" fill="#58a6ff" font-weight="bold">cleanrename/</tspan><tspan x="390" fill="#c9d1d9">lightweight bulk renamer for Windows (C++)</tspan></text>
+<text class="l" style="animation-delay:0.90s" x="20" y="178" font-size="14"><tspan fill="#8b949e">drwxr-xr-x</tspan><tspan x="130" fill="#bc8cff">[wip]</tspan><tspan x="240" fill="#58a6ff" font-weight="bold">miftah/</tspan><tspan x="390" fill="#c9d1d9">switch languages in-browser, no OS language packs</tspan></text>
+<text class="l" style="animation-delay:1.05s" x="20" y="204" font-size="14"><tspan fill="#8b949e">drwxr-xr-x</tspan><tspan x="130" fill="#bc8cff">[wip]</tspan><tspan x="240" fill="#58a6ff" font-weight="bold">tsuzuki/</tspan><tspan x="390" fill="#c9d1d9">CLI that resumes mpv where you left off (Linux)</tspan></text>
+<text class="l" style="animation-delay:1.20s" x="20" y="230" font-size="14"><tspan fill="#8b949e">drwxr-xr-x</tspan><tspan x="130" fill="#bc8cff">[wip]</tspan><tspan x="240" fill="#58a6ff" font-weight="bold">mindroad/</tspan><tspan x="390" fill="#c9d1d9">local-first learning tracker in one SQLite file</tspan></text>
+<text class="l" style="animation-delay:1.35s" x="20" y="256" font-size="14"><tspan fill="#8b949e">drwxr-xr-x</tspan><tspan x="130" fill="#8b949e">[paused]</tspan><tspan x="240" fill="#58a6ff" font-weight="bold">smartschedule/</tspan><tspan x="390" fill="#c9d1d9">attendance planner with a "safe skip" buffer</tspan></text>
+<text class="l" style="animation-delay:1.50s" x="20" y="290" font-size="14"><tspan fill="#3fb950">mhmdsamer@github</tspan><tspan fill="#c9d1d9"> ~ $ </tspan><tspan fill="#c9d1d9" class="cur">█</tspan></text>
+</svg>

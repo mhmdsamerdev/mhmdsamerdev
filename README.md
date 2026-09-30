@@ -1,63 +1,36 @@
-# hey, I'm Mohammed Samer
-
-**Software Engineer** — I build things that are fast, purposeful, and actually useful.  
-Backend with Python & FastAPI · Frontend with React, Vite & Tailwind (shadcn/ui)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Samer-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmdsamer-dev)   [![Email](https://img.shields.io/badge/Email-reach%20me-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mhmdsamer.dev@gmail.com)
-
----
-
-## 🛠 What I work with
-
-```text
-Backend    │  Python · FastAPI · REST APIs
-Frontend   │  React · Vite · Tailwind CSS · shadcn/ui
-Tools      │  Git · Docker · VS Code
-```
-
----
-
-## Projects 
-
-### Shipped *(This list is outdated and not regularly updated)*
-
-#### 📚 [Shelfie](https://github.com/mhmdsamer-dev/shelfie)
-> A modern, local-first library manager for PDFs and EPUBs.
-
-Transform messy file folders into a beautiful, searchable web UI — with automated metadata extraction, reading progress tracking, and personal annotations. Your ebooks, finally organized the way you want.
-
----
-
-#### 🗓 [SmartSchedule](https://github.com/mhmdsamer-dev/smartschedule)
-> Intelligent attendance tracker that works *for* you, not against you.
-
-Not just counting classes — SmartSchedule calculates exactly how many sessions you can safely skip, based on your semester schedule, required attendance rate, and where you are in the term.
-
----
-
-#### 💸 [NetLanding](https://github.com/mhmdsamerdev/NetLanding)
-> Self-employed income tracker focused on what actually lands in your bank.
-
-Not an expense tracker. NetLanding tracks gross income and every "leak" — platform fees, payment processor cuts, taxes withheld — that chip away at your money before it reaches you. Crystal-clear visibility into your real take-home.
-
----
-
-### In Progress
-
-#### ⚽ Predeq *(coming soon)*
-> A skill-based prediction league platform built for the World Cup.
-
-Pick match winners before kickoff and earn points through an odds-weighted system — bold calls against strong favorites pay more. Social groups, global leaderboards, and a cash prize structure turn watching games into a competitive sport of its own.
-
----
-
-#### 🤖 CueRoom *(in development)*
-> A collaborative hub for prompt engineers and AI enthusiasts.
-
-Publish, fork, and refine prompts for LLMs like ChatGPT, Gemini, and Claude. No more copying from Notepad files — CueRoom is a living ecosystem where high-performing prompts are shared, versioned, and improved by a community.
-
----
-
 <div align="center">
-  <sub>Always building. Always shipping. 🔧</sub>
+
+<h3><code>mhmdsamer@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./assets/contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year" />
+
+<br><br>
+
+<h3><code>mhmdsamer@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./assets/portrait-ascii.svg" width="370" alt="ASCII portrait: a developer asleep at their desk" /></td>
+    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Mohammed Samer, software engineer. Python, FastAPI, React, TypeScript, C++, Linux. UTMxHackathon '26 finalist." /></td>
+  </tr>
+</table>
+
+<br>
+
+<h3><code>mhmdsamer@github ~ $ ls ~/projects</code></h3>
+
+<img src="./assets/projects.svg" width="860" alt="Projects: VertiFlow, NetLanding, Shelfie, CleanRename (public); Miftah, Tsuzuki, Mindroad, SmartSchedule (private, in progress)" />
+
+<br><br>
+
+<a href="https://github.com/mhmdsamerdev/VertiFlow"><code>vertiflow</code></a> ·
+<a href="https://github.com/mhmdsamerdev/NetLanding"><code>netlanding</code></a> ·
+<a href="https://github.com/mhmdsamerdev/Shelfie"><code>shelfie</code></a> ·
+<a href="https://github.com/mhmdsamerdev/CleanRename"><code>cleanrename</code></a>
+
+<br><br>
+
+<a href="mailto:mhmdsamer.dev@gmail.com">email</a> ·
+<a href="https://linkedin.com/in/mhmdsamer-dev">linkedin</a>
+
 </div>
