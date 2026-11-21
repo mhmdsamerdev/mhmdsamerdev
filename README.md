@@ -19,14 +19,15 @@
 
 <h3><code>mhmdsamer@github ~ $ ls ~/projects</code></h3>
 
-<img src="./assets/projects.svg" width="860" alt="Projects: VertiFlow, NetLanding, Shelfie, CleanRename (public); Miftah, Tsuzuki, Mindroad, SmartSchedule (private, in progress)" />
+<img src="./assets/projects.svg" width="860" alt="Projects: VertiFlow, NetLanding, Shelfie, CleanRename, Tsuzuki (public); Miftah, Mindroad, SmartSchedule (private, in progress)" />
 
 <br><br>
 
 <a href="https://github.com/mhmdsamerdev/VertiFlow"><code>vertiflow</code></a> ·
 <a href="https://github.com/mhmdsamerdev/NetLanding"><code>netlanding</code></a> ·
 <a href="https://github.com/mhmdsamerdev/Shelfie"><code>shelfie</code></a> ·
-<a href="https://github.com/mhmdsamerdev/CleanRename"><code>cleanrename</code></a>
+<a href="https://github.com/mhmdsamerdev/CleanRename"><code>cleanrename</code></a> ·
+<a href="https://github.com/mhmdsamerdev/tsuzuki"><code>tsuzuki</code></a>
 
 <br><br>
 
