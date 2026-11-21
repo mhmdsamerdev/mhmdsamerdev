@@ -14,7 +14,7 @@ text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'L
 <text class="l" style="animation-delay:0.40s" x="20" y="110" font-size="14" xml:space="preserve"><tspan fill="#f0883e">name:  </tspan><tspan x="84" fill="#c9d1d9">Mohammed Samer</tspan></text>
 <text class="l" style="animation-delay:0.65s" x="20" y="138" font-size="14" xml:space="preserve"><tspan fill="#f0883e">role:  </tspan><tspan x="84" fill="#c9d1d9">software engineer</tspan></text>
 <text class="l" style="animation-delay:0.90s" x="20" y="166" font-size="14" xml:space="preserve"><tspan fill="#f0883e">stack: </tspan><tspan x="84" fill="#c9d1d9">Python · FastAPI · React · TypeScript</tspan></text>
-<text class="l" style="animation-delay:1.15s" x="20" y="194" font-size="14" xml:space="preserve"><tspan fill="#f0883e">       </tspan><tspan x="84" fill="#c9d1d9">C++ · Linux · Chrome extensions</tspan></text>
+<text class="l" style="animation-delay:1.15s" x="20" y="194" font-size="14" xml:space="preserve"><tspan fill="#f0883e">       </tspan><tspan x="84" fill="#c9d1d9">Rust · Linux · Chrome extensions</tspan></text>
 <text class="l" style="animation-delay:1.40s" x="20" y="222" font-size="14" xml:space="preserve"><tspan fill="#f0883e">now:   </tspan><tspan x="84" fill="#c9d1d9">rebuilding NetLanding</tspan></text>
 <text class="l" style="animation-delay:1.65s" x="20" y="250" font-size="14" xml:space="preserve"><tspan fill="#f0883e">wins:  </tspan><tspan x="84" fill="#c9d1d9">UTMxHackathon '26 finalist (VertiFlow)</tspan></text>
 <text class="l" style="animation-delay:1.90s" x="20" y="278" font-size="14" xml:space="preserve"><tspan fill="#f0883e">site:  </tspan><tspan x="84" fill="#c9d1d9">mhmdsamer.dev (soon)</tspan></text>

@@ -8,7 +8,7 @@ INFO = [
     ("name", "Mohammed Samer"),
     ("role", "software engineer"),
     ("stack", "Python · FastAPI · React · TypeScript"),
-    ("", "C++ · Linux · Chrome extensions"),
+    ("", "Rust · Linux · Chrome extensions"),
     ("now", "rebuilding NetLanding"),
     ("wins", "UTMxHackathon '26 finalist (VertiFlow)"),
     ("site", "mhmdsamer.dev (soon)"),
@@ -19,10 +19,10 @@ INFO = [
 PROJECTS = [
     ("vertiflow", "finalist", "IoT vertical-farm platform · hackathon finalist"),
     ("netlanding", "active", "self-hosted income tracker: gross vs. what lands"),
-    ("shelfie", "public", "local-first library manager for PDFs & EPUBs"),
     ("cleanrename", "public", "lightweight bulk renamer for Windows (C++)"),
-    ("tsuzuki", "public", "CLI that resumes mpv where you left off (Linux)"),
+    ("tsuzuki", "active", "CLI that resumes mpv where you left off (Linux)"),
     ("miftah", "wip", "switch languages in-browser, no OS language packs"),
+    ("shelfie", "wip", "local-first library manager for PDFs & EPUBs"),
     ("mindroad", "wip", "local-first learning tracker in one SQLite file"),
     ("smartschedule", "paused", "attendance planner with a \"safe skip\" buffer"),
 ]
